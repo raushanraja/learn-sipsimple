@@ -1,0 +1,3 @@
+[submodule "python-sipsimple"]
+	path = python-sipsimple
+	url = https://github.com/agumbe/python-sipsimple.git
